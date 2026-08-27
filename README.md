@@ -1,6 +1,6 @@
 # NumPy Practice & Fundamentals
 
-This repository contains Jupyter Notebooks and dataset files dedicated to learning and practicing fundamental NumPy concepts in Python.
+This repository contains Jupyter Notebooks and dataset files dedicated to learning and practicing fundamental NumPy concepts in Python. 
 
 ## 📌 Repository Contents
 
